@@ -22,5 +22,5 @@ updateProduct(product.id, {
 findProducts({
   title: 'p1',
   color: 'blue',
-  
+  tags: ['as'],
 })
